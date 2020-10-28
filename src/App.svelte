@@ -100,12 +100,12 @@
 		
 	}
 	div {
-		height: 100%;
+		
 	}
 	.grid {
 		scroll-snap-align: center;
 		display: grid;
-		align-content: stretch;
+		align-content: start;
 		gap: 2px;
 		height: calc(100vh - 3rem);
 	}
