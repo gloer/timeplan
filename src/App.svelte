@@ -31,7 +31,7 @@
 		{
 			dag: "tirsdag",
 			timer: [
-				{fag: "Religion og etikk", tid: "08:00 - 09:35"},
+				{fag: "Religion og etikk", tid: "09:40 - 10:25"},
 				{fag: "Norsk hovedmål", tid: "10:30 - 14:20"},
 				{fag: "Sosialkunnskap", tid: "14:25 - 16:0"}				
 			]
